@@ -136,4 +136,5 @@ dmypy.json
 
 #Other
 *.exe
+*.ini
 .vscode
