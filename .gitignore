@@ -137,4 +137,5 @@ dmypy.json
 #Other
 *.exe
 *.ini
+DUFSLOG.txt
 .vscode
