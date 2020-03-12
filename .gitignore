@@ -139,3 +139,4 @@ dmypy.json
 *.ini
 DUFSLOG.txt
 .vscode
+runSteam.bat
