@@ -74,6 +74,8 @@ if config['PATHS']['gamepathalt'] != "":
     processName = os.path.basename(config['PATHS']['gamepathalt'])
 
 #Continuously check if the process still exists
+time.sleep(20)
+
 while True:
     print('Process check loop')
     time.sleep(int(config['SETTINGS']['processcheckfrequency']))
